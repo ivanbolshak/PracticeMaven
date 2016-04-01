@@ -6,6 +6,14 @@
         <element id="directory" name="classes">
           <element id="module-output" name="webappexample" />
         </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="jUnit-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="jUnit" />
+          </element>
+          <element id="archive" name="SpringCore-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="SpringCore" />
+          </element>
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/webappexample/target/webapp/META-INF/MANIFEST.MF" />
