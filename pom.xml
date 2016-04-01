@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <jUnit>1.0</jUnit>
+        <SpringCore>1.0</SpringCore>
+    </properties>
+
+
+    <groupId>IvanBolshak</groupId>
+    <artifactId>practice-home-maven</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Core</module>
+        <module>SpringCore</module>
+        <module>webappexample</module>
+        <module>jUnit</module>
+        <module>DAO</module>
+        <module>web</module>
+
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>IvanBolshak</groupId>
+            <artifactId>jUnit</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>IvanBolshak</groupId>
+            <artifactId>SpringCore</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
+</project>
