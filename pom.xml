@@ -4,11 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+
+
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <jUnit>1.0</jUnit>
-        <SpringCore>1.0</SpringCore>
+
     </properties>
 
 
@@ -18,9 +19,6 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Core</module>
-        <module>SpringCore</module>
-        <module>webappexample</module>
-        <module>jUnit</module>
         <module>DAO</module>
         <module>web</module>
 
@@ -28,15 +26,17 @@
 
     <dependencies>
         <dependency>
-            <groupId>IvanBolshak</groupId>
-            <artifactId>jUnit</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
         </dependency>
+
         <dependency>
-            <groupId>IvanBolshak</groupId>
-            <artifactId>SpringCore</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>4.2.5.RELEASE</version>
         </dependency>
+
     </dependencies>
 
 </project>

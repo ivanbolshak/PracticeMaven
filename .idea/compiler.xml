@@ -27,7 +27,6 @@
         <module name="jUnit" />
         <module name="SpringCore" />
         <module name="web" />
-        <module name="webappexample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -7,12 +7,8 @@
           <element id="module-output" name="webappexample" />
         </element>
         <element id="directory" name="lib">
-          <element id="archive" name="jUnit-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="jUnit" />
-          </element>
-          <element id="archive" name="SpringCore-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="SpringCore" />
-          </element>
+          <element id="library" level="project" name="Maven: IvanBolshak:jUnit:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: IvanBolshak:SpringCore:1.0-SNAPSHOT" />
         </element>
       </element>
       <element id="directory" name="META-INF">
