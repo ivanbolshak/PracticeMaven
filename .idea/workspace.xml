@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99435f1a-c59d-422c-aea3-82e7142b6a25" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCore/SpringCore.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCore/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jUnit/jUnit.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jUnit/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webappexample/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webappexample/src/main/webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webappexample/src/main/webapp/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webappexample/webappexample.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/webappexample_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/webappexample_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core/Core.iml" afterPath="$PROJECT_DIR$/Core/Core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DAO/DAO.iml" afterPath="$PROJECT_DIR$/DAO/DAO.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PracticeMaven.iml" afterPath="$PROJECT_DIR$/PracticeMaven.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/pom.xml" afterPath="$PROJECT_DIR$/web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/web.iml" afterPath="$PROJECT_DIR$/web/web.iml" />
-    </list>
+    <list default="true" id="99435f1a-c59d-422c-aea3-82e7142b6a25" name="Default" comment="" />
     <ignored path="PracticeMaven.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -682,7 +658,7 @@
       <created>1459525162608</created>
       <option name="number" value="Default" />
       <updated>1459525162608</updated>
-      <workItem from="1459525165936" duration="13618000" />
+      <workItem from="1459525165936" duration="13812000" />
     </task>
     <task id="LOCAL-00001" summary="Try_1">
       <created>1459532802965</created>
@@ -700,7 +676,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13618000" />
+    <option name="totallyTimeSpent" value="13812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
